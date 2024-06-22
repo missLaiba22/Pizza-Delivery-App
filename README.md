@@ -62,7 +62,7 @@ Joey's Pizza Delivery is a feature-rich pizza ordering system built with FastAPI
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/joeys-pizza-delivery.git
+    git clone https://github.com/missLaiba22/Pizza-Delivery-App
     cd joeys-pizza-delivery
     ```
 
