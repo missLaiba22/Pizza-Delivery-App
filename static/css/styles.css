@@ -1,0 +1,47 @@
+
+/*Importing the Poppins font from Google Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+body {
+    background-color: #f8f9fa;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+h3 {
+    margin-bottom: 20px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px; 
+    line-height: 60px; 
+    background-color: #f8f9fa;
+}
+
+.cart-font {
+    font-size: 1.5em;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.custom-brand {
+    font-family: 'Poppins', sans-serif; 
+    font-size: 2.5rem; 
+    font-weight: 700; 
+    color: #ff6347; 
+    transition: color 0.3s ease;
+}
+
+.custom-brand:hover {
+    color: #ff4500; 
+}
